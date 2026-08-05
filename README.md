@@ -44,7 +44,6 @@ An analytical breakdown of public and private technology companies, ranked by th
 | 18 | **Base44** 🏗️ | Acquired (Wix) 🤝 | $150 Million 💰 | ~10 👥 | **$15.0 Million** 🤑 |
 | 19 | **Applied Materials** 🔬 | Public 📈 | $431 Billion 💰 | ~34,000 👥 | **$12.6 Million** 🤑 |
 | 20 | **Tesla** 🚗 | Public 📈 | $1.28 Trillion 💰 | ~120,000 👥 | **$10.6 Million** 🤑 |
-| 21 | **Salesforce** ☁️ | Public 📈 | $158 Billion 💰 | ~72,000 👥 | **$2.19 Million** 🤑 |
 
 
 ## 🔑 Key Structural Insights
