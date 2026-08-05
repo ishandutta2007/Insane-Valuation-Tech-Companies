@@ -22,7 +22,7 @@ An analytical breakdown of public and private technology companies, ranked by th
 | 3️⃣ | **AppLovin** 📱 | Public 📈 | $141 Billion 💰 | 887 👥 | **$159.0 Million** 🤑 |
 | 5️⃣ | **NVIDIA** 🎮 | Public 📈 | $5.13 Trillion 💰 | 42,000 👥 | **$122.1 Million** 🤑 |
 | 6️⃣ | **SpaceX** 🚀 | Private (Pre-IPO) 🔒 | $1.77 Trillion 💰 | ~17,700 👥 | **$100.0 Million** 🤑 |
-| 8 | **Midjourney** | Private (Bootstrapped) | ~$10 Billion (Est.) | ~100 | **~$100.0 Million** |
+| 8 | **Midjourney** | Private (Bootstrapped) 🔒 | ~$10 Billion (Est.) 💰 | ~100 👥 | **~$100.0 Million** 🤑 |
 | 7️⃣ | **Palantir** 👁️ | Public 📈 | $390 Billion 💰 | 4,429 👥 | **$88.0 Million** 🤑 |
 | 9️⃣ | **Broadcom** 🔌 | Public 📈 | $1.99 Trillion 💰 | 33,000 👥 | **$60.3 Million** 🤑 |
 | 12 | **Lovable** | Private | $6.6 Billion | 146 | **$45.2 Million** |
