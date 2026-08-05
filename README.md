@@ -32,29 +32,29 @@ An analytical breakdown of public and private technology companies, ranked by th
 | 9 | **Palantir** | Public | $390 Billion | 4,429 | **$88.0 Million** |
 | 8️⃣ | **Cursor (Anysphere)** 💻 | Private 🔒 | $60 Billion 💰 | 700 👥 | **$85.7 Million** 🤑 |
 | 3 | **Cursor (Anysphere)** | Acquired (SpaceX) | $60 Billion | ~350 | **~$171.4 Million** |
+| 10 | **Cursor** (Early 2026) | Private | $2.5 Billion | ~20 | **$125.0 Million** |
 | 9️⃣ | **Broadcom** 🔌 | Public 📈 | $1.99 Trillion 💰 | 33,000 👥 | **$60.3 Million** 🤑 |
+| 11 | **Broadcom** | Public | $1.99 Trillion | 33,000 | **$60.3 Million** |
+| 12 | **Lovable** | Private | $6.6 Billion | 146 | **$45.2 Million** |
 | 🔟 | **Meta Platforms** 🌐 | Public 📈 | $1.51 Trillion 💰 | ~76,000 👥 | **$19.8 Million** 🤑 |
 | 11 | **Alphabet (Google)** 🔍 | Public 📈 | $4.61 Trillion 💰 | ~190,000 👥 | **$24.2 Million** 🤑 |
+| 15 | **Alphabet (Google)** | Public | $4.61 Trillion | ~190,000 | **$24.2 Million** |
 | 12 | **Netflix** 🍿 | Public 📈 | $308 Billion 💰 | ~13,000 👥 | **$23.7 Million** 🤑 |
+| 16 | **Netflix** | Public | $308 Billion | ~13,000 | **$23.7 Million** |
+| 17 | **Meta Platforms** | Public | $1.51 Trillion | ~76,000 | **$19.8 Million** |
 | 13 | **Apple** 🍎 | Public 📈 | $4.54 Trillion 💰 | 166,000 👥 | **$27.3 Million** 🤑 |
+| 13 | **Apple** | Public | $4.54 Trillion | 166,000 | **$27.3 Million** |
 | 14 | **AMD** 💻 | Public 📈 | $845 Billion 💰 | 31,000 👥 | **$27.2 Million** 🤑 |
-| 15 | **Base44** 🏗️ | Acquired (Wix) 🤝 | $80 Million 💰 | ~8 (at exit) 👥 | **$10.0 Million** 🤑 |
+| 14 | **AMD** | Public | $845 Billion | 31,000 | **$27.2 Million** |
 | 16 | **Microsoft** 🪟 | Public 📈 | $3.62 Trillion 💰 | ~228,000 👥 | **$15.9 Million** 🤑 |
+| 18 | **Microsoft** | Public | $3.62 Trillion | ~228,000 | **$15.9 Million** |
+| 15 | **Base44** 🏗️ | Acquired (Wix) 🤝 | $80 Million 💰 | ~8 (at exit) 👥 | **$10.0 Million** 🤑 |
+| 19 | **Base44** | Acquired (Wix) | $150 Million (Total) | ~10 | **$15.0 Million** |
 | 17 | **Amazon** 📦 | Public 📈 | $2.98 Trillion 💰 | ~1.5 Million 👥 | **$1.98 Million** 🤑 |
 | 18 | **Tesla** 🚗 | Public 📈 | $1.28 Trillion 💰 | ~120,000 👥 | **$10.6 Million** 🤑 |
 | 19 | **Applied Materials** 🔬 | Public 📈 | $431 Billion 💰 | ~34,000 👥 | **$12.6 Million** 🤑 |
-| 20 | **Salesforce** ☁️ | Public 📈 | $158 Billion 💰 | ~72,000 👥 | **$2.19 Million** 🤑 |
-| 10 | **Cursor** (Early 2026) | Private | $2.5 Billion | ~20 | **$125.0 Million** |
-| 11 | **Broadcom** | Public | $1.99 Trillion | 33,000 | **$60.3 Million** |
-| 12 | **Lovable** | Private | $6.6 Billion | 146 | **$45.2 Million** |
-| 13 | **Apple** | Public | $4.54 Trillion | 166,000 | **$27.3 Million** |
-| 14 | **AMD** | Public | $845 Billion | 31,000 | **$27.2 Million** |
-| 15 | **Alphabet (Google)** | Public | $4.61 Trillion | ~190,000 | **$24.2 Million** |
-| 16 | **Netflix** | Public | $308 Billion | ~13,000 | **$23.7 Million** |
-| 17 | **Meta Platforms** | Public | $1.51 Trillion | ~76,000 | **$19.8 Million** |
-| 18 | **Microsoft** | Public | $3.62 Trillion | ~228,000 | **$15.9 Million** |
-| 19 | **Base44** | Acquired (Wix) | $150 Million (Total) | ~10 | **$15.0 Million** |
 | 20 | **Applied Materials** | Public | $431 Billion | ~34,000 | **$12.6 Million** |
+| 20 | **Salesforce** ☁️ | Public 📈 | $158 Billion 💰 | ~72,000 👥 | **$2.19 Million** 🤑 |
 
 
 ## 🔑 Key Structural Insights
