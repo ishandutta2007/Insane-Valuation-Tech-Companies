@@ -62,3 +62,14 @@ An analytical breakdown of public and private technology companies, ranked by th
 * **The Rise of "Vibe Coding" and Hyper-Lean Operations** ⚡: Startups like Medvi and Base44 demonstrate a new paradigm where a handful of founders orchestrate extensive systems via AI agents and third-party API backends. This eliminates massive payroll overhead and pushes valuation leverage past standard tech thresholds.
 * **Private Market Disruption** 🌪️: AI research institutions (OpenAI, Anthropic) command staggering private valuations relative to their core engineering cohorts, outperforming public infrastructure peers on a per-capita basis.
 * **Ad Automation Leverage** ⚙️: AppLovin's intensive software and ad-network automation strategies allow its smaller workforce to unlock unprecedented per-employee scaling metrics on public exchanges.
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FInsane-Valuation-Tech-Companies&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Insane-Valuation-Tech-Companies&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Insane-Valuation-Tech-Companies&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Insane-Valuation-Tech-Companies&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
