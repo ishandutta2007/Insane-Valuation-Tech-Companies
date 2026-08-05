@@ -33,8 +33,7 @@ An analytical breakdown of public and private technology companies, ranked by th
 | 13 | **Apple** 🍎 | Public 📈 | $4.54 Trillion 💰 | 166,000 👥 | **$27.3 Million** 🤑 |
 | 14 | **AMD** 💻 | Public 📈 | $845 Billion 💰 | 31,000 👥 | **$27.2 Million** 🤑 |
 | 16 | **Microsoft** 🪟 | Public 📈 | $3.62 Trillion 💰 | ~228,000 👥 | **$15.9 Million** 🤑 |
-| 15 | **Base44** 🏗️ | Acquired (Wix) 🤝 | $80 Million 💰 | ~8 (at exit) 👥 | **$10.0 Million** 🤑 |
-| 19 | **Base44** | Acquired (Wix) | $150 Million (Total) | ~10 | **$15.0 Million** |
+| 19 | **Base44** 🏗️ | Acquired (Wix) 🤝 | $150 Million (Total) 💰 | ~10 👥 | **$15.0 Million** 🤑 |
 | 17 | **Amazon** 📦 | Public 📈 | $2.98 Trillion 💰 | ~1.5 Million 👥 | **$1.98 Million** 🤑 |
 | 18 | **Tesla** 🚗 | Public 📈 | $1.28 Trillion 💰 | ~120,000 👥 | **$10.6 Million** 🤑 |
 | 19 | **Applied Materials** 🔬 | Public 📈 | $431 Billion 💰 | ~34,000 👥 | **$12.6 Million** 🤑 |
