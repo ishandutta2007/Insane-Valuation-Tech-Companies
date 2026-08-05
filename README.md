@@ -25,7 +25,7 @@ An analytical breakdown of public and private technology companies, ranked by th
 | 8 | **Midjourney** 🎨 | Private (Bootstrapped) 🔒 | ~$10 Billion 💰 | ~100 👥 | **~$100.0 Million** 🤑 |
 | 9 | **Palantir** 👁️ | Public 📈 | $390 Billion 💰 | 4,429 👥 | **$88.0 Million** 🤑 |
 | 10 | **Broadcom** 🔌 | Public 📈 | $1.99 Trillion 💰 | 33,000 👥 | **$60.3 Million** 🤑 |
-| 11 | **Lovable** | Private | $6.6 Billion | 146 | **$45.2 Million** |
+| 11 | **Lovable** 💖 | Private 🔒 | $6.6 Billion 💰 | 146 👥 | **$45.2 Million** 🤑 |
 | 12 | **Apple** 🍎 | Public 📈 | $4.54 Trillion 💰 | 166,000 👥 | **$27.3 Million** 🤑 |
 | 13 | **AMD** 💻 | Public 📈 | $845 Billion 💰 | 31,000 👥 | **$27.2 Million** 🤑 |
 | 14 | **Alphabet (Google)** 🔍 | Public 📈 | $4.61 Trillion 💰 | ~190,000 👥 | **$24.2 Million** 🤑 |
