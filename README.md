@@ -13,7 +13,7 @@ An analytical breakdown of public and private technology companies, ranked by th
 
 ## 🏆 Top 20 Tech Companies by Valuation Per Employee
 
-| Rank | Company&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Valuation&nbsp;/&nbsp;Market&nbsp;Cap&nbsp;(USD)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Employee&nbsp;Count&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Valuation&nbsp;Per&nbsp;Employee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Rank | Company&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Valuation&nbsp;/&nbsp;Market&nbsp;Cap&nbsp;(USD)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Employee&nbsp;Count&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Valuation&nbsp;Per&nbsp;Employee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | **Medvi** 🧬 | Private 🔒 | $1.8 Billion 💰 | 2 🧑‍🤝‍🧑 | **$900.0 Million** 🤑 |
 | 2 | **Anthropic** 🤖 | Private 🔒 | $965 Billion 💰 | ~3,000 👥 | **~$321.7 Million** 🤑 |
@@ -32,7 +32,7 @@ An analytical breakdown of public and private technology companies, ranked by th
 | 15 | **Netflix** 🍿 | Public 📈 | $308 Billion 💰 | ~13,000 👥 | **$23.7 Million** 🤑 |
 | 16 | **Meta Platforms** 🌐 | Public 📈 | $1.51 Trillion 💰 | ~76,000 👥 | **$19.8 Million** 🤑 |
 | 17 | **Microsoft** 🪟 | Public 📈 | $3.62 Trillion 💰 | ~228,000 👥 | **$15.9 Million** 🤑 |
-| 18 | **Base44** 🏗️ | Acquired (Wix) 🤝 | $150 Million (Total) 💰 | ~10 👥 | **$15.0 Million** 🤑 |
+| 18 | **Base44** 🏗️ | Acquired (Wix) 🤝 | $150 Million 💰 | ~10 👥 | **$15.0 Million** 🤑 |
 | 19 | **Applied Materials** 🔬 | Public 📈 | $431 Billion 💰 | ~34,000 👥 | **$12.6 Million** 🤑 |
 | 20 | **Tesla** 🚗 | Public 📈 | $1.28 Trillion 💰 | ~120,000 👥 | **$10.6 Million** 🤑 |
 | 21 | **Salesforce** ☁️ | Public 📈 | $158 Billion 💰 | ~72,000 👥 | **$2.19 Million** 🤑 |
