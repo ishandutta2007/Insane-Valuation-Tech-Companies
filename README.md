@@ -16,13 +16,9 @@ An analytical breakdown of public and private technology companies, ranked by th
 | Rank | Company | Status | Valuation / Market Cap (USD) | Employee Count | Valuation Per Employee |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1️⃣ | **Medvi** 🧬 | Private 🔒 | $1.8 Billion 💰 | 2 🧑‍🤝‍🧑 | **$900.0 Million** 🤑 |
-| 1 | **Medvi** | Private | $1.8 Billion | 2 | **$900.0 Million** |
 | 2️⃣ | **OpenAI** 🧠 | Private 🔒 | $852 Billion 💰 | 4,500 👥 | **$189.3 Million** 🤑 |
-| 4 | **OpenAI** | Private | $852 Billion | ~4,500 | **~$189.3 Million** |
 | 3️⃣ | **AppLovin** 📱 | Public 📈 | $141 Billion 💰 | 887 👥 | **$159.0 Million** 🤑 |
-| 5 | **AppLovin** | Public | $141 Billion | 887 | **$159.0 Million** |
-| 4️⃣ | **Anthropic** 🤖 | Private 🔒 | $380 Billion 💰 | 2,500 👥 | **$152.0 Million** 🤑 |
-| 2 | **Anthropic** | Private | $965 Billion | ~3,000 | **~$321.7 Million** |
+| 4️⃣ | **Anthropic** 🤖 | Private 🔒 | $965 Billion 💰 | ~3,000 👥 | **~$321.7 Million** 🤑 |
 | 5️⃣ | **NVIDIA** 🎮 | Public 📈 | $5.13 Trillion 💰 | 42,000 👥 | **$122.1 Million** 🤑 |
 | 6 | **NVIDIA** | Public | $4.80 Trillion | 36,000 | **$133.3 Million** |
 | 6️⃣ | **SpaceX** 🚀 | Private (Pre-IPO) 🔒 | $1.77 Trillion 💰 | ~17,700 👥 | **$100.0 Million** 🤑 |
