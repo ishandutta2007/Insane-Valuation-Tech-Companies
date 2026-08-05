@@ -26,10 +26,10 @@ An analytical breakdown of public and private technology companies, ranked by th
 | 7️⃣ | **Palantir** 👁️ | Public 📈 | $390 Billion 💰 | 4,429 👥 | **$88.0 Million** 🤑 |
 | 9️⃣ | **Broadcom** 🔌 | Public 📈 | $1.99 Trillion 💰 | 33,000 👥 | **$60.3 Million** 🤑 |
 | 12 | **Lovable** | Private | $6.6 Billion | 146 | **$45.2 Million** |
-| 11 | **Alphabet (Google)** 🔍 | Public 📈 | $4.61 Trillion 💰 | ~190,000 👥 | **$24.2 Million** 🤑 |
-| 12 | **Netflix** 🍿 | Public 📈 | $308 Billion 💰 | ~13,000 👥 | **$23.7 Million** 🤑 |
 | 13 | **Apple** 🍎 | Public 📈 | $4.54 Trillion 💰 | 166,000 👥 | **$27.3 Million** 🤑 |
 | 14 | **AMD** 💻 | Public 📈 | $845 Billion 💰 | 31,000 👥 | **$27.2 Million** 🤑 |
+| 11 | **Alphabet (Google)** 🔍 | Public 📈 | $4.61 Trillion 💰 | ~190,000 👥 | **$24.2 Million** 🤑 |
+| 12 | **Netflix** 🍿 | Public 📈 | $308 Billion 💰 | ~13,000 👥 | **$23.7 Million** 🤑 |
 | 🔟 | **Meta Platforms** 🌐 | Public 📈 | $1.51 Trillion 💰 | ~76,000 👥 | **$19.8 Million** 🤑 |
 | 16 | **Microsoft** 🪟 | Public 📈 | $3.62 Trillion 💰 | ~228,000 👥 | **$15.9 Million** 🤑 |
 | 19 | **Base44** 🏗️ | Acquired (Wix) 🤝 | $150 Million (Total) 💰 | ~10 👥 | **$15.0 Million** 🤑 |
