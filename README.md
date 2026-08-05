@@ -16,27 +16,25 @@ An analytical breakdown of public and private technology companies, ranked by th
 | Rank | Company | Status | Valuation / Market Cap (USD) | Employee Count | Valuation Per Employee |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1️⃣ | **Medvi** 🧬 | Private 🔒 | $1.8 Billion 💰 | 2 🧑‍🤝‍🧑 | **$900.0 Million** 🤑 |
-| 2️⃣ | **OpenAI** 🧠 | Private 🔒 | $852 Billion 💰 | 4,500 👥 | **$189.3 Million** 🤑 |
-| 3️⃣ | **AppLovin** 📱 | Public 📈 | $141 Billion 💰 | 887 👥 | **$159.0 Million** 🤑 |
 | 4️⃣ | **Anthropic** 🤖 | Private 🔒 | $965 Billion 💰 | ~3,000 👥 | **~$321.7 Million** 🤑 |
+| 2️⃣ | **OpenAI** 🧠 | Private 🔒 | $852 Billion 💰 | 4,500 👥 | **$189.3 Million** 🤑 |
+| 3 | **Cursor (Anysphere)** 💻 | Acquired (SpaceX) 🔒 | $60 Billion 💰 | ~350 👥 | **~$171.4 Million** 🤑 |
+| 3️⃣ | **AppLovin** 📱 | Public 📈 | $141 Billion 💰 | 887 👥 | **$159.0 Million** 🤑 |
 | 5️⃣ | **NVIDIA** 🎮 | Public 📈 | $5.13 Trillion 💰 | 42,000 👥 | **$122.1 Million** 🤑 |
 | 6️⃣ | **SpaceX** 🚀 | Private (Pre-IPO) 🔒 | $1.77 Trillion 💰 | ~17,700 👥 | **$100.0 Million** 🤑 |
 | 8 | **Midjourney** | Private (Bootstrapped) | ~$10 Billion (Est.) | ~100 | **~$100.0 Million** |
 | 7️⃣ | **Palantir** 👁️ | Public 📈 | $390 Billion 💰 | 4,429 👥 | **$88.0 Million** 🤑 |
-| 3 | **Cursor (Anysphere)** 💻 | Acquired (SpaceX) 🔒 | $60 Billion 💰 | ~350 👥 | **~$171.4 Million** 🤑 |
 | 9️⃣ | **Broadcom** 🔌 | Public 📈 | $1.99 Trillion 💰 | 33,000 👥 | **$60.3 Million** 🤑 |
 | 12 | **Lovable** | Private | $6.6 Billion | 146 | **$45.2 Million** |
-| 🔟 | **Meta Platforms** 🌐 | Public 📈 | $1.51 Trillion 💰 | ~76,000 👥 | **$19.8 Million** 🤑 |
 | 11 | **Alphabet (Google)** 🔍 | Public 📈 | $4.61 Trillion 💰 | ~190,000 👥 | **$24.2 Million** 🤑 |
 | 12 | **Netflix** 🍿 | Public 📈 | $308 Billion 💰 | ~13,000 👥 | **$23.7 Million** 🤑 |
-| 17 | **Meta Platforms** | Public | $1.51 Trillion | ~76,000 | **$19.8 Million** |
 | 13 | **Apple** 🍎 | Public 📈 | $4.54 Trillion 💰 | 166,000 👥 | **$27.3 Million** 🤑 |
 | 14 | **AMD** 💻 | Public 📈 | $845 Billion 💰 | 31,000 👥 | **$27.2 Million** 🤑 |
+| 🔟 | **Meta Platforms** 🌐 | Public 📈 | $1.51 Trillion 💰 | ~76,000 👥 | **$19.8 Million** 🤑 |
 | 16 | **Microsoft** 🪟 | Public 📈 | $3.62 Trillion 💰 | ~228,000 👥 | **$15.9 Million** 🤑 |
 | 19 | **Base44** 🏗️ | Acquired (Wix) 🤝 | $150 Million (Total) 💰 | ~10 👥 | **$15.0 Million** 🤑 |
-| 17 | **Amazon** 📦 | Public 📈 | $2.98 Trillion 💰 | ~1.5 Million 👥 | **$1.98 Million** 🤑 |
-| 18 | **Tesla** 🚗 | Public 📈 | $1.28 Trillion 💰 | ~120,000 👥 | **$10.6 Million** 🤑 |
 | 19 | **Applied Materials** 🔬 | Public 📈 | $431 Billion 💰 | ~34,000 👥 | **$12.6 Million** 🤑 |
+| 18 | **Tesla** 🚗 | Public 📈 | $1.28 Trillion 💰 | ~120,000 👥 | **$10.6 Million** 🤑 |
 | 20 | **Salesforce** ☁️ | Public 📈 | $158 Billion 💰 | ~72,000 👥 | **$2.19 Million** 🤑 |
 
 
