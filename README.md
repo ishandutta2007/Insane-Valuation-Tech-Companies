@@ -13,7 +13,7 @@ An analytical breakdown of public and private technology companies, ranked by th
 
 ## 🏆 Top 20 Tech Companies by Valuation Per Employee
 
-| Rank | Company&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Valuation&nbsp;/&nbsp;Market&nbsp;Cap&nbsp;(USD)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Employee&nbsp;Count&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Valuation&nbsp;Per&nbsp;Employee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Rank | Company&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Valuation&nbsp;/&nbsp;Market&nbsp;Cap&nbsp;(USD)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Employee&nbsp;Count&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Valuation&nbsp;Per&nbsp;Employee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | **Medvi** 🧬 | Private 🔒 | $1.8 Billion 💰 | 2 🧑‍🤝‍🧑 | **$900.0 Million** 🤑 |
 | 2 | **Anthropic** 🤖 | Private 🔒 | $965 Billion 💰 | ~3,000 👥 | **~$321.7 Million** 🤑 |
@@ -22,7 +22,7 @@ An analytical breakdown of public and private technology companies, ranked by th
 | 5 | **AppLovin** 📱 | Public 📈 | $141 Billion 💰 | 887 👥 | **$159.0 Million** 🤑 |
 | 6 | **NVIDIA** 🎮 | Public 📈 | $5.13 Trillion 💰 | 42,000 👥 | **$122.1 Million** 🤑 |
 | 7 | **SpaceX** 🚀 | Private (Pre-IPO) 🔒 | $1.77 Trillion 💰 | ~17,700 👥 | **$100.0 Million** 🤑 |
-| 8 | **Midjourney** 🎨 | Private (Bootstrapped) 🔒 | ~$10 Billion (Est.) 💰 | ~100 👥 | **~$100.0 Million** 🤑 |
+| 8 | **Midjourney** 🎨 | Private (Bootstrapped) 🔒 | ~$10 Billion 💰 | ~100 👥 | **~$100.0 Million** 🤑 |
 | 9 | **Palantir** 👁️ | Public 📈 | $390 Billion 💰 | 4,429 👥 | **$88.0 Million** 🤑 |
 | 10 | **Broadcom** 🔌 | Public 📈 | $1.99 Trillion 💰 | 33,000 👥 | **$60.3 Million** 🤑 |
 | 11 | **Lovable** | Private | $6.6 Billion | 146 | **$45.2 Million** |
